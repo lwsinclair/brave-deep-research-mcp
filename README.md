@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/suthio-brave-deep-research-mcp)
+
 # @suthio/brave-deep-research-mcp
 
 A Model Context Protocol (MCP) server that combines Brave Search with Puppeteer-powered content extraction for deep research capabilities. This server allows AI assistants to perform comprehensive web searches by not only retrieving search results but also visiting the pages to extract full content and explore linked pages.
